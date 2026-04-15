@@ -1,3 +1,8 @@
+__pycache__/
+*.pyc
+.env
+node_modules/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
